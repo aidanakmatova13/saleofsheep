@@ -75,12 +75,14 @@ a {
 .right-side {
     width: 90%;
 }
+.phone-number{
+    color: #D6D6D6;
+}
 .main{
     display: flex;
 }
 .content{
     background-color: whitesmoke;
-    /*#DDDAE3*/
     padding: 50px 0;
 }
 .heading{
