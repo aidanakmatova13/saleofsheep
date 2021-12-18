@@ -74,7 +74,7 @@ a {
     width: 90%;
 }
 .phone-number{
-    color: #22231F ;
+    color: black ;
 }
 .main{
     display: flex;
@@ -123,6 +123,8 @@ a {
 }
 .contact-content{
     color: black;
-    margin-bottom: 50px;
+}
+.map{
+    margin-top: 20px;
 }
 
