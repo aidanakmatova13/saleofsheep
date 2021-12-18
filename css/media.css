@@ -5,7 +5,12 @@
 
 }
 @media (max-width: 768px) {
-
+    .aside{
+        width: 20%;
+    }
+    .right-side {
+        width: 80%;
+    }
 }
 @media (max-width: 480px) {
     .aside{
